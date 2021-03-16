@@ -1,4 +1,4 @@
-# cloud-studio-examples
+# cloud-studio
 
 Lots of stuff on the floor, don't trip and fall. 
 
